@@ -1,0 +1,14 @@
+\contentsline {section}{\numberline {1}Question 01}{3}{section.1}%
+\contentsline {section}{\numberline {2}Question 02}{3}{section.2}%
+\contentsline {section}{\numberline {3}Question 03}{4}{section.3}%
+\contentsline {section}{\numberline {4}Question 04}{4}{section.4}%
+\contentsline {section}{\numberline {5}Question 05}{5}{section.5}%
+\contentsline {section}{\numberline {6}Question 06}{5}{section.6}%
+\contentsline {section}{\numberline {7}Question 07}{6}{section.7}%
+\contentsline {subsection}{\numberline {7.1}Using Buit-in Filter2D function}{6}{subsection.7.1}%
+\contentsline {subsection}{\numberline {7.2}Using Iterations}{7}{subsection.7.2}%
+\contentsline {subsection}{\numberline {7.3}Using multiplication of two kernels}{7}{subsection.7.3}%
+\contentsline {section}{\numberline {8}Question 08}{7}{section.8}%
+\contentsline {section}{\numberline {9}Question 09}{8}{section.9}%
+\contentsline {section}{\numberline {10}References}{8}{section.10}%
+\contentsline {section}{\numberline {11}Github Repository}{8}{section.11}%
